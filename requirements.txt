@@ -1,1 +1,8 @@
 
+fastapi
+uvicorn
+pydantic
+httpx
+streamlit
+pytest
+python-dotenv
